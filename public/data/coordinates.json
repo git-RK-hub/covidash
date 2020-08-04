@@ -1,0 +1,197 @@
+[
+  {
+    "id": 1,
+    "state": "Andaman and Nicobar Islands",
+    "cordinates": [92.73598262, 11.66702557]
+  },
+  {
+    "id": 2,
+    "state": "Andhra Pradesh",
+    "cordinates": [78.57002559, 14.7504291]
+  },
+  {
+    "id": 3,
+    "state": "Arunachal Pradesh",
+    "cordinates": [93.61660071, 27.10039878]
+  },
+  {
+    "id": 4,
+    "state": "Assam",
+    "cordinates": [94.21666744, 26.7499809]
+  },
+  {
+    "id": 5,
+    "state": "Bihar",
+    "cordinates": [87.4799727, 25.78541445]
+  },
+  {
+    "id": 6,
+    "state": "Chandigarh",
+    "cordinates": [76.78000565, 30.71999697]
+  },
+  {
+    "id": 7,
+    "state": "Chhattisgarh",
+    "cordinates": [82.15998734, 22.09042035]
+  },
+  {
+    "id": 8,
+    "state": "Dadra And Nagar Haveli",
+    "cordinates": [73.0166178, 20.26657819]
+  },
+  {
+    "id": 9,
+    "state": "Delhi",
+    "cordinates": [77.23000403, 28.6699929]
+  },
+  {
+    "id": 10,
+    "state": "Goa",
+    "cordinates": [73.81800065, 15.491997]
+  },
+  {
+    "id": 11,
+    "state": "Himachal Pradesh",
+    "cordinates": [77.16659704, 31.10002545]
+  },
+  {
+    "id": 12,
+    "state": "Haryana",
+    "cordinates": [77.01999101, 28.45000633]
+  },
+  {
+    "id": 13,
+    "state": "Jammu and Kashmir",
+    "cordinates": [74.46665849, 34.29995933]
+  },
+  {
+    "id": 14,
+    "state": "Jharkhand",
+    "cordinates": [86.41998572, 23.80039349]
+  },
+  {
+    "id": 15,
+    "state": "Karnataka",
+    "cordinates": [76.91999711, 12.57038129]
+  },
+  {
+    "id": 16,
+    "state": "Kerala",
+    "cordinates": [76.56999263, 8.900372741]
+  },
+  {
+    "id": 17,
+    "state": "Lakshadweep",
+    "cordinates": [72.63686717, 10.56257331]
+  },
+  {
+    "id": 18,
+    "state": "Madhya Pradesh",
+    "cordinates": [76.13001949, 21.30039105]
+  },
+  {
+    "id": 18,
+    "state": "Maharashtra",
+    "cordinates": [73.16017493, 19.25023195]
+  },
+  {
+    "id": 19,
+    "state": "Manipur",
+    "cordinates": [93.95001705, 24.79997072]
+  },
+  {
+    "id": 20,
+    "state": "Meghalaya",
+    "cordinates": [91.8800142, 25.57049217]
+  },
+  {
+    "id": 21,
+    "state": "Mizoram",
+    "cordinates": [92.72001461, 23.71039899]
+  },
+  {
+    "id": 22,
+    "state": "Nagaland",
+    "cordinates": [94.11657019, 25.6669979]
+  },
+  {
+    "id": 23,
+    "state": "Odisha",
+    "cordinates": [85.90001746, 19.82042971]
+  },
+  {
+    "id": 24,
+    "state": "Puducherry",
+    "cordinates": [79.83000037, 11.93499371]
+  },
+  {
+    "id": 25,
+    "state": "Punjab",
+    "cordinates": [75.98000281, 31.51997398]
+  },
+  {
+    "id": 26,
+    "state": "Rajasthan",
+    "cordinates": [74.63998124, 26.44999921]
+  },
+  {
+    "id": 27,
+    "state": "Sikkim",
+    "cordinates": [88.6166475, 27.3333303]
+  },
+  {
+    "id": 28,
+    "state": "Tamil Nadu",
+    "cordinates": [79.15004187, 12.92038576]
+  },
+  {
+    "id": 29,
+    "state": "Tripura",
+    "cordinates": [91.27999914, 23.83540428]
+  },
+  {
+    "id": 30,
+    "state": "Uttar Pradesh",
+    "cordinates": [78.05000565, 27.59998069]
+  },
+  {
+    "id": 31,
+    "state": "Uttaranchal",
+    "cordinates": [78.05000565, 30.32040895]
+  },
+  {
+    "id": 32,
+    "state": "West Bengal",
+    "cordinates": [88.32994665, 22.58039044]
+  },
+  {
+    "id": 33,
+    "state": "Gujarat",
+    "cordinates": [72.13623, 22.309425]
+  },
+  {
+    "id": 34,
+    "state": "Telangana",
+    "cordinates": [78.491684, 17.38714]
+  },
+  {
+    "id": 35,
+    "state": "Uttarakhand",
+    "cordinates": [78.164246, 29.94569]
+  },
+  {
+    "id": 36,
+    "state": "Ladakh",
+    "cordinates": [77.615112, 34.209515]
+  },
+  {
+    "id": 37,
+    "state": "Daman and Diu",
+    "cordinates": [72.832802, 20.397373]
+  },
+  {
+    "id": 38,
+    "state": "Dadra and Nagar Haveli",
+    "cordinates": [73.008308, 20.276266]
+  }
+]
